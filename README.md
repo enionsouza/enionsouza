@@ -6,7 +6,7 @@ I'm currently studying at [Microverse](https://www.microverse.org/) to become a 
 
 - [x] HTML5 & CSS3
 - [x] RUBY
-- [ ] DATABASES
+- [x] DATABASES
 - [ ] RUBY ON RAILS
 - [ ] JAVASCRIPT
 - [ ] REACT & REDUX
