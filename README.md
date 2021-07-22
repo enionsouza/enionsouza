@@ -7,6 +7,11 @@ I'm currently studying at [Microverse](https://www.microverse.org/) to become a 
 - [x] HTML5 & CSS3
 - [x] RUBY
 - [x] DATABASES
-- [ ] RUBY ON RAILS
+- [x] RUBY ON RAILS
 - [ ] JAVASCRIPT
 - [ ] REACT & REDUX
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enionsouza&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enionsouza&layout=compact)
