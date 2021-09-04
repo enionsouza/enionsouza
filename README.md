@@ -28,7 +28,7 @@
 - 💻 I am available for hire and open to new job opportunities.
 - 🧑‍💻 I love technology and programming languages, in general.
 - 🤔 I’m looking for new opportunities especially with JavaScript and Ruby Frameworks.
-- I'm also a 👷 Civil Engineer, B.Eng., specialized in 🛫 Airport Design and Planning!
+- I'm also a 👷 Civil Engineer, B.Eng., specialized in 🛫 Airport Planning and Design!
 
 ---
 
