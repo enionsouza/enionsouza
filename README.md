@@ -38,8 +38,8 @@ I'm currently studying at [Microverse](https://www.microverse.org/) to become a 
 - [x] Ruby
 - [x] Databases
 - [x] Ruby on Rails
-- [ ] JavaScript
-- [ ] ReactJs & ReduxJs
+- [x] JavaScript
+- [x] ReactJs & ReduxJs
 
 ---
 
